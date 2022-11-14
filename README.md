@@ -10,7 +10,7 @@ I’m @AnnikaLarissa and I'm a young software developer and data scientist from 
 But you can all find this on [my LinkedIn](https://www.linkedin.com/in/annika-schavemaker-034336231/).
 
 Lets get more personal 👀
-- 🏘️ Lived in 3 countries 🇳🇱 🇨🇳 🇸🇪 
+- 🏘️ I lived in 3 countries 🇳🇱 🇨🇳 🇸🇪 
 - 💬 I speak 5 languages 🇳🇱 🇨🇳 🇺🇸 🇫🇷 🇩🇪
 - :weight_lifting_woman: I love sports
 - :biking_woman: My go to vehicle is a bike (duh, I'm Dutch)
