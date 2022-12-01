@@ -23,7 +23,7 @@ Lets get more personal 👀
 -
 
 Unfortunately, many of the projects I did in university and on my side job as a programmer are private due to intellectual property rights :frowning_face:. 
-However, you can see the list of project names and the contibutions I made.
+However, for the private projects you can see the list of project names and the contibutions I made.
 
 📖 MIMIC-IV (public)
 -
@@ -31,6 +31,11 @@ However, you can see the list of project names and the contibutions I made.
 This is a research conducted by me and @alexanderm0 about the application of federated learning on monoethnic clinical data to determine kidney related diagnoses using the MIMIC-IV dataset.
 This research is conducted for the course Research Methodology and Scientific Writing at @KTH. 
 As the research topic and execution were free of choice, this project represents my way of working very well.
+
+📖 Advent Of Code (public)
+-
+
+For every day in December, one programming challenge becomes available on https://adventofcode.com/2022. In this repository I share my code answers for every day I participated in the challenge.
 
 📖 Sentelligent (private)
 -
