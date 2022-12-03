@@ -10,12 +10,12 @@ I’m @AnnikaLarissa and I'm a young software developer and data scientist from 
 But you can all find this on [my LinkedIn](https://www.linkedin.com/in/annika-schavemaker-034336231/).
 
 Lets get more personal 👀
-- 🏘️ I lived in 3 countries 🇳🇱 🇨🇳 🇸🇪 
+- 🏘️ I have lived in different 3 countries 🇳🇱 🇨🇳 🇸🇪 
 - 💬 I speak 5 languages 🇳🇱 🇨🇳 🇺🇸 🇫🇷 🇩🇪
 - :weight_lifting_woman: I love sports
-- :biking_woman: My go to vehicle is a bike (duh, I'm Dutch)
+- :biking_woman: My go-to vehicle is a bike (duh, I'm Dutch)
 - :women_wrestling: I have a brown belt in karate
-- :woman_cartwheeling: I love acrobatics and practice a rare sport called aerial hoop
+- :woman_cartwheeling: I love acrobatics and practice a uncommon sport called aerial hoop
 - :bowl_with_spoon: In my free time you can always find me in the kitchen
 - :family_man_woman_girl_girl: But nothing is as good as sharing food with your friends, of course!
 
