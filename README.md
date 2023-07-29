@@ -22,8 +22,7 @@ Lets get more personal 👀
 📚 My projects
 -
 
-Unfortunately, many of the projects I did in university and on my side job as a programmer are private due to intellectual property rights :frowning_face:. 
-However, for the private projects you can see the list of project names and the contibutions I made.
+Unfortunately, many of the projects I did in university and on my side job as a programmer aren't public. But feel free to check out some of my public projects! I'm sure they will represent my code style just as well.
 
 📖 MIMIC-IV (public)
 -
